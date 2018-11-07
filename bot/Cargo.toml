@@ -1,0 +1,13 @@
+[package]
+name = "russian-bank-bot"
+version = "0.1.0"
+
+[dependencies]
+failure = "*"
+futures = "0.1"
+futures-cpupool = "*"
+serde_json = "*"
+sheets-backend = { path = "../sheets-backend" }
+tokio-core = "*"
+telebot = "*"
+yup-oauth2 = "*"

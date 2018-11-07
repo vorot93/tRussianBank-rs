@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "sheets-backend",
+    "bot",
+]
